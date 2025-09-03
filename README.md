@@ -1,7 +1,7 @@
 
 ### Project Details
 
-This projects utilizes seaborns regression tools to analyze key concepts from the researh article https://www.researchgate.net/publication/341451219_ON_THE_TRAJECTORIES_OF_THE_3x_1_PROBLEM. 
+This projects utilizes seaborns regression tools to analyze key concepts from the research article https://www.researchgate.net/publication/341451219_ON_THE_TRAJECTORIES_OF_THE_3x_1_PROBLEM. 
 The main Script Linear Collatz Trajectories Algorithm.py derives the data and stores it into csv files of your choice (they need to be manuelly editied). The file regression_test.py serves 
 as the main graphing tool to recieve illistrations for the publication. Pingouin tables are also utilized for article purposes. 
 
